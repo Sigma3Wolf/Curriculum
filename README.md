@@ -26,7 +26,7 @@ iid{80a11b77a52aa9eeed80c9d37dcb7878519289d40beeddb40bb23a60d2711963}
 ## Links
 
 - [GitHub](https://github.com/Sigma3Wolf/mIrc/)
-- [YouTube](https://www.youtube.com/@Sigma3Wolf/)
+- [YouTube](https://youtu.be/d5P-Xmdnleo/)
 - [Twitch](https://www.twitch.tv/Sigma3Wolf/)
 
 ## Revision
