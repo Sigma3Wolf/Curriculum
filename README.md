@@ -25,7 +25,7 @@ iid{80a11b77a52aa9eeed80c9d37dcb7878519289d40beeddb40bb23a60d2711963}
 
 ## Links
 
-- [CV](https://github.com/Sigma3Wolf/Curriculum/blob/main/2025_CV_s.pdf)
+- [Curriculum Vitae](https://github.com/Sigma3Wolf/Curriculum/blob/main/2025_CV_s.pdf)
 - [GitHub](https://github.com/Sigma3Wolf/Curriculum/)
 - [YouTube](https://youtu.be/d5P-Xmdnleo/)
 - [Twitch](https://www.twitch.tv/Sigma3Wolf/)
