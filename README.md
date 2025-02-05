@@ -10,7 +10,7 @@
 ## License
 
 This project is open source licensed under the [BSD 3-Clause License](https://opensource.org/license/bsd-3-clause/).
-Please see the [LICENSE file](/LICENSE.txt) for more information.
+Please see the [LICENSE file](/LICENSE) for more information.
 
 ## Owner International Id
 
