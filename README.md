@@ -5,7 +5,7 @@
 
 **Visual**
 
-![PDF output](images/pdfThumbnail.png)
+![PDF output](images/pdfThumbnail2.png)
 
 ## License
 
